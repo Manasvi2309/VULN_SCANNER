@@ -15,11 +15,8 @@ A simple but powerful *Web Application Vulnerability Scanner* made in Python.
 ```bash
 python scanner.py http://example.com
 
-Sample Report
-Report automatically saved as report.html in the same folder.
-
 ##Author
-github:@Manasvi2309
-Year:2025
+GitHub : @Manasvi2309
+Year - 2025
 Made from India for the global cybersecurity community
 Warning: Only for educational & authorized penetration testing
