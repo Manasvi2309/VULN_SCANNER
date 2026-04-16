@@ -1,8 +1,5 @@
 # VULN_SCANNER
 Web Application Vulnerability Scanner with HTML Report (Python)
-
-# VULN_SCANNER 🔍
-
 A simple but powerful *Web Application Vulnerability Scanner* made in Python.
 
 ## Features
