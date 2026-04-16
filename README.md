@@ -12,7 +12,8 @@ A simple but powerful *Web Application Vulnerability Scanner* made in Python.
 ```bash
 python scanner.py http://example.com
 
-##Author
+## Author
+
 GitHub : @Manasvi2309
 Year - 2025
 Made from India for the global cybersecurity community
